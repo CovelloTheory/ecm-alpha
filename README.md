@@ -19,4 +19,6 @@ Run `ecm_main.py` with an `.edf` EEG file (e.g. `seizure1.edf`) to see metrics a
 This is an alpha release for demonstration and Kickstarter launch purposes. Not for clinical use (yet).
 
 ## License
-MIT
+The ECM prototype is released under a limited-use license for research, demo, and educational purposes only. Commercial or clinical reuse is prohibited without written permission. All core intellectual property is © 2025 Covello Theory.
+
+
