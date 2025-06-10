@@ -19,4 +19,4 @@ Run `ecm_main.py` with an `.edf` EEG file (e.g. `seizure1.edf`) to see metrics a
 This is an alpha release for demonstration and Kickstarter launch purposes. Not for clinical use (yet).
 
 ## License
-MIT (or specify your own)
+MIT
