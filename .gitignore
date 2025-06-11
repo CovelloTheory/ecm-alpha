@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.edf
+*.mp4
+*.log
+.env
+.DS_Store
