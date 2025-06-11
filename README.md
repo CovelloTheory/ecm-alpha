@@ -1,6 +1,6 @@
 # EEG Consciousness Mode (ECM) – Alpha
 
-Early-stage alpha prototype of the EEG Consciousness Mode (ECM) system, a real-time consciousness metric analyzer built on Covello Theory. This research tool maps EEG activity into dynamically evolving cognitive metrics — including integration, recursion, and perceptual clarity.
+Alpha-stage prototype of the EEG Consciousness Mode (ECM) system — a real-time analyzer that applies Covello Theory to EEG data. ECM dynamically maps integration, recursion, and perceptual coherence into quantifiable cognitive metrics.
 
 ## Core Features
 - Real-time EEG waveform visualization
@@ -15,13 +15,14 @@ Early-stage alpha prototype of the EEG Consciousness Mode (ECM) system, a real-t
 ## Usage
 Run `ecm_main.py` with an `.edf` EEG file (e.g. `real_eeg_2.edf`) to see metrics and band powers in real time.
 
-## 🎥 ECM Alpha Live Demo
+## 🎥 ECM Alpha System Preview
 
 ![Watch the demo](./ecm_demo.mp4)
 
-This video shows the ECM Alpha prototype processing real EEG data and visualizing Covello Theory metrics in real time.
-⚠️ ECM Alpha has been tested on a limited set of EEG files (.edf) and may require format-specific adjustments. Broader compatibility and resilience across diverse EEG sources is under active development.
-Note: ECM Alpha currently supports a subset of .edf files with consistent channel labeling and structure. For demonstration or testing purposes, please use the provided example file or contact us for compatibility guidance.
+This internal demo shows the ECM Alpha prototype processing real EEG data and visualizing Covello Theory metrics — CIndex, PRI, and QES — in real time. The signal was processed live during recording, with real-time updates to band powers, Covello Metrics, and collapse prediction logic.
+
+> ⚠️ Note: This is a pre-recorded internal demonstration. EEG input file used is not publicly released. The video reflects system behavior observed during controlled test conditions.
+
 
 ## EEG Data and Interpretation
 
@@ -40,7 +41,7 @@ This is an early prototype for demonstration and research exploration. Not inten
 The ECM prototype is released under a limited-use license for research, demo, and educational purposes only. Commercial or clinical reuse is prohibited without written permission. All core intellectual property is © 2025 Covello Theory.
 
 ## Code Availability
-Core prototype code is currently reserved for grant reviewers and research collaborators. Full access will be granted to backers post-launch and to institutions following NDA or validation agreements.
+Core prototype code is currently restricted to grant reviewers and research collaborators. Full access will be extended to verified backers post-launch and to institutions following NDA or post-validation review.
 
 ---
 
