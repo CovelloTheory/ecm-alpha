@@ -15,6 +15,12 @@ Early-stage alpha prototype of the EEG Consciousness Mode system based on Covell
 ## Usage
 Run `ecm_main.py` with an `.edf` EEG file (e.g. `real_eeg_2.edf`) to see metrics and band powers in real time.
 
+## 🎥 ECM Alpha Live Demo
+
+![Watch the demo](./ecm_demo.mp4)
+
+This video shows the ECM Alpha prototype processing real EEG data and visualizing Covello Theory metrics in real time.
+
 ## EEG Data and Interpretation
 
 This demo processes **real EEG data** (EDF format) using live spectral analysis and adaptive metric computation.  
