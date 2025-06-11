@@ -39,3 +39,14 @@ The ECM prototype is released under a limited-use license for research, demo, an
 ## Code Availability
 Prototype code will be made available to backers and grant reviewers post-validation. Current results shown are based on internal testing.
 
+---
+
+### 📚 Citation & Contact
+
+For academic reference, licensing, or collaboration inquiries:
+
+**Michael Covello**  
+📧 legal@covellotheory.com  
+🌐 [https://covellotheory.com] (In progress)
+
+
